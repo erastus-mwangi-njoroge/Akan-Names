@@ -11,3 +11,7 @@ fieldset > div {
   flex-flow: row wrap;
 }
   
+  input:invalid {
+    border: 1px solid red;
+  }
+  
