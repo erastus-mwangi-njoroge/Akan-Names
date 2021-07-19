@@ -21,3 +21,5 @@ function getGender(){
   return gender;
 }
 function outputName(){ 
+  var dayIndex = calculateDayIndex();
+  var gender = getGender();   
