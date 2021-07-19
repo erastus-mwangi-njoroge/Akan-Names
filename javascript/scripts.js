@@ -7,3 +7,4 @@ function calculateDayIndex(){
     YY = parseInt(year.slice(2,4));
     MM = parseInt(document.getElementById("month").value);
     DD = parseInt(document.getElementById("date").value)
+    d = (((CC/4)-2*CC-1)+((5*YY/4))+((26*(MM+1)/10))+DD)%7;
