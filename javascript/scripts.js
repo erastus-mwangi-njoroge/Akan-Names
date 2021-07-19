@@ -15,3 +15,6 @@ function getGender(){
     if(document.getElementById('male').checked){
        var gender="male"
     }
+    else if(document.getElementById('female').checked){
+       var gender="female"
+  }
