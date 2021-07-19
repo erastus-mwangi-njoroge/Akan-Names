@@ -5,3 +5,9 @@ form{
   margin-top: 5%;
   padding-left: 2%;
 }
+fieldset > div {
+  margin-bottom: 3%;
+  display: flex;
+  flex-flow: row wrap;
+}
+  
