@@ -12,3 +12,6 @@ function calculateDayIndex(){
   return (Math.floor(d));
 }
 function getGender(){
+    if(document.getElementById('male').checked){
+       var gender="male"
+    }
