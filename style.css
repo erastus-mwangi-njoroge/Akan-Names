@@ -1,5 +1,7 @@
 .intro{
 text-align: center;
+background-color: greenyellow;
+margin-bottom: -1.3%;
  
 }
 main{
@@ -9,14 +11,14 @@ main{
 }
 form{
   
-  width: 20em;
+  width: 30em;
 margin-left: 0%;
-height: 21em;
+height: 40em;
 background-color: greenyellow;
 
 }
 img{
-  height: 35em;
+  height: 40em;
 }
 table{
   margin-left: 30em;
@@ -37,4 +39,5 @@ fieldset > div {
   footer{
     text-align: center;
     font-weight: 900;
+    background-color: greenyellow;
   }
