@@ -20,3 +20,4 @@ function getGender(){
   }
   return gender;
 }
+function outputName(){ 
