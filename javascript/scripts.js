@@ -11,3 +11,4 @@ function calculateDayIndex(){
     console.log(d);
   return (Math.floor(d));
 }
+function getGender(){
